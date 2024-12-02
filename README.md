@@ -7,6 +7,7 @@
 ### 一些提示词（刚开始写还不多）：
 - For Kimi：
   - [为你解释英语单词](https://github.com/Cedar794/prompts_from_cedar/blob/main/english_words_explanation.txt)
+  - [打蟑螂](https://github.com/Cedar794/prompts_from_cedar/blob/main/Kill_cockroaches.txt)
  
 ## 联系我
 - 微信：Zy_Cedar
