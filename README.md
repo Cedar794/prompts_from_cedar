@@ -8,6 +8,9 @@
 - For Kimi：
   - [为你解释英语单词](https://github.com/Cedar794/prompts_from_cedar/blob/main/english_words_explanation.txt)
   - [打蟑螂](https://github.com/Cedar794/prompts_from_cedar/blob/main/Kill_cockroaches.txt)
+
+### 想试试我做的一些小产品吗？
+- [多语种查词、翻译工具](yourgenapp.streamlit.app)
  
 ## 联系我
 - 微信：Zy_Cedar
